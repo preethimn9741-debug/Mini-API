@@ -51,7 +51,7 @@ Validation reports are stored in the reports folder
 
 The total number of errors is returned after validation
 
-## onclusion
+## conclusion
 
 This project provides a simple and efficient way to validate CSV files using a REST API.
 
