@@ -57,5 +57,4 @@ This project provides a simple and efficient way to validate CSV files using a R
 
 It is suitable for learning, backend practice, and basic data validation tasks.
   
-pip install fastapi uvicorn pandas
 
