@@ -1,6 +1,4 @@
 # Mini-API
-# CSV Validation API
-
 This project is a FastAPI-based application that allows users to upload CSV files, validate data quality, and download validation reports.
 
 ---
