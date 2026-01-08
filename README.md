@@ -28,8 +28,33 @@ This project is a FastAPI-based application that allows users to upload CSV file
 
 - `GET /download`  
   Download the generated validation report.
+  
+  ## Project Structure
 
----
+mini_API/
+│
+├── main.py # FastAPI application
+
+├── database.py # Database configuration
+
+├── models.py # SQLAlchemy models
+│
+├── templates/
+
+│ └── index.html # Web UI
+│
+├── static/
+
+│ └── script.js # Frontend JavaScript
+│
+├── uploads/ # Uploaded CSV files
+
+├── reports/ # Generated error reports
+
+└──  app.db # SQLite database (auto-created)
+
+## Terminal screenshoot
+<img width="778" height="285" alt="Screenshot 2026-01-08 131700" src="https://github.com/user-attachments/assets/ead03ead-e9c4-4f73-ad6e-bc1451ec1f71" />
 
 ## How to Run
 
