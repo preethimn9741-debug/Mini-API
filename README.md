@@ -32,22 +32,22 @@ This project is a FastAPI-based application that allows users to upload CSV file
   ## Project Structure
 
 mini_API/
-│
+
 
 ├── main.py # FastAPI application
 
 ├── database.py # Database configuration
 
 ├── models.py # SQLAlchemy models
-│
+
 ├── templates/
 
 │ └── index.html # Web UI
-│
+
 ├── static/
 
 │ └── script.js # Frontend JavaScript
-│
+
 ├── uploads/ # Uploaded CSV files
 
 ├── reports/ # Generated error reports
