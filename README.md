@@ -33,6 +33,7 @@ This project is a FastAPI-based application that allows users to upload CSV file
 
 mini_API/
 │
+
 ├── main.py # FastAPI application
 
 ├── database.py # Database configuration
